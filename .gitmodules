@@ -1,0 +1,4 @@
+[submodule "geeknote"]
+	path = geeknote
+	url = git@github.com:jeffkowalski/geeknote.git
+	branch = master
