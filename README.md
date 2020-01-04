@@ -8,5 +8,4 @@ git clone --recursive git@github.com:csabatini/cronjobs.git
 cp ./cronjobs/crontab /etc/crontab
 ```
 
-## Credentials 
-Job logs and credentials are stored in the paths `~/.log` and `~/.credentials`.
+Job logs and credentials are kept in the paths `~/.log` and `~/.credentials`.
